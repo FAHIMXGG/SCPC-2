@@ -14,5 +14,5 @@ function posNumbers(arr) {
   
   const input = [2, -5, 10, -3, 7];
   const output = posNumbers(input);
-  console.log(output); 
+  console.log(output);
   
