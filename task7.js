@@ -29,6 +29,7 @@ function romanToInt(romanNumeral) {
   
   console.log(romanToInt("IX"));
   console.log(romanToInt("X"));
+  console.log(romanToInt("IX"));
   console.log(romanToInt("IV"));
   console.log(romanToInt("XLII"));
   
