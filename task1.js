@@ -4,6 +4,6 @@ function reverseString(input) {
     return input.split("").reverse().join("");
   }
   
-  const input = "hello world";
+  const input = "hello world ";
   const output = reverseString(input);
   console.log(output);
